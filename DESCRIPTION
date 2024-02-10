@@ -1,0 +1,10 @@
+Package: obliclus
+Type: Package
+Title: Cluster-based factor rotation
+Version: 0.2
+Date: 2024-02-11
+Author: Michio Yamamoto
+Maintainer: Michio Yamamoto <yamamoto.michio.hus@osaka-u.ac.jp>
+Description: This package conducts factor rotation techniques which intentd to identify a simple and well-clustered structure in a factor loading matrix.
+License: GPL (>= 3)
+URL: http://www.michioyamamoto.com/wp/

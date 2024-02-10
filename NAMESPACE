@@ -1,0 +1,7 @@
+useDynLib("obliclus")
+
+export("obliclus")
+export("analy.deriv")
+export("criteria")
+export("alpha.optim")
+
